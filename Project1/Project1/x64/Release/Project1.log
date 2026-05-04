@@ -1,0 +1,6 @@
+﻿  main.cpp
+  Создание кода
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 2739 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  Project1.vcxproj -> D:\Новая папка (2)\Project1\x64\Release\Project1.exe
